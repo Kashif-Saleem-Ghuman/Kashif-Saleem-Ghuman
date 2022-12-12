@@ -13,12 +13,33 @@
 
 ## About me
 
-I'm Kashif Saleem. A Full Stack Developer. 
+const eliVillalejos = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["He", "Him"],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap]
+  challenge: "I am honing my React skills",
+  funFacts: ['I have 10+ years of design experience with and one 1 year remote web development experience 
+  from all over the world', 
+  'my tiny chihuahua dog is ready to woof at the right offer']
+}
  
 ## Things I am passionate about
 
 - React, Making usefull web applications.
 - Open source :octocat:
+
+```
+### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   5 hrs 24 mins   ██████████████████████▒░░   89.45 %
+SCSS         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+```
+
+<!--END_SECTION:waka-->
 
 ## Get in touch :coffee:
 
@@ -27,14 +48,3 @@ I'm Kashif Saleem. A Full Stack Developer.
 - And of course GitHub you're already on (Recursion).
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
