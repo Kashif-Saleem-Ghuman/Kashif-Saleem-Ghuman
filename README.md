@@ -1,7 +1,6 @@
 # Hey there :wave:
 
 <h2> Hi, I'm Kashif Saleem!</h2>
-<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em></p>
 
 <p align="center"> 
