@@ -4,8 +4,13 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kashif-saleem-45ba95215/)](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kashif14Saleem)](https://twitter.com/Kashif14Saleem)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kashif Saleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kashif-saleem-45ba95215/)](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
+[![Twitter Badge](https://img.shields.io/badge/-@kashif Saleem_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kashif14Saleem)](https://twitter.com/Kashif14Saleem)
 
 
 
