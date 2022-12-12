@@ -9,8 +9,9 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kashif Saleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kashif-saleem-45ba95215/)](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
-[![Twitter Badge](https://img.shields.io/badge/-@kashif Saleem_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kashif14Saleem)](https://twitter.com/Kashif14Saleem)
+[![Linkedin Badge](https://img.shields.io/badge/-Kashif%20Saleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashif-saleem-45ba95215/)]([https://www.linkedin.com/in/ellievillalejos/](https://www.linkedin.com/in/kashif-saleem-45ba95215/))
+[![Twitter Badge](https://img.shields.io/badge/-@Mr_kashif_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kashif14Saleem)](https://twitter.com/Kashif14Saleem)
+
 
 
 
