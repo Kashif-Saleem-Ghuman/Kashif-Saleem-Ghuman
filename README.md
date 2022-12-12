@@ -1,6 +1,7 @@
 # Hey there :wave:
 
-<p align="center" width="100vw">![Morgan Maxwell](https://user-images.githubusercontent.com/111677605/207101352-098fb84c-f7fa-4b46-977a-8495040faa82.gif)</p>
+
+![Morgan Maxwell](https://user-images.githubusercontent.com/111677605/207102124-00637f3c-30ad-4bac-a646-ef10425a1fe3.png)
 
 
 <p align="center"> 
