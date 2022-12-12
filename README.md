@@ -1,9 +1,6 @@
 # Hey there :wave:
 
-<video width="320" height="240" autoplay>
-  <source src="Morgan Maxwell.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/111677605/207100765-49075bfe-666f-44e9-8149-90e7accb6f6f.mp4
 
 <p align="center"> 
   Visitor count<br>
@@ -11,6 +8,10 @@ Your browser does not support the video tag.
 </p>
 
 ## About me
+
+
+
+
 
 const eliVillalejos = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
