@@ -1,7 +1,10 @@
 # Hey there :wave:
 
+<h2> Hi, I'm Kashif Saleem! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-![Morgan Maxwell](https://user-images.githubusercontent.com/111677605/207102124-00637f3c-30ad-4bac-a646-ef10425a1fe3.png)
+
 
 
 <p align="center"> 
@@ -12,18 +15,18 @@
 ## About me
 
 
-
-
-
+```javascript
 const eliVillalejos = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["He", "Him"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap]
-  challenge: "I am honing my React skills",
-  funFacts: ['I have 10+ years of design experience with and one 1 year remote web development experience 
+  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
+  challenge: "I am honing my React skills and picking up TypeScript",
+  funFacts: ['I have 4+ years of remote work experience with devs 
   from all over the world', 
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
+```
  
 ## Things I am passionate about
 
