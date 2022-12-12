@@ -1,6 +1,7 @@
 # Hey there :wave:
 
-https://user-images.githubusercontent.com/111677605/207100765-49075bfe-666f-44e9-8149-90e7accb6f6f.mp4
+![Morgan Maxwell](https://user-images.githubusercontent.com/111677605/207101352-098fb84c-f7fa-4b46-977a-8495040faa82.gif)
+
 
 <p align="center"> 
   Visitor count<br>
