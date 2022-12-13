@@ -4,7 +4,7 @@
 <h3 align="center">I am open to new opportunities.</h3>
 <h3 align="center"> Interests</h3>
 <p align="center">🤽‍♀️ Cricket and Soccer 🎨 Interior Design </p>
-<p align="center"><img  src='https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG'></p>
+<p align="center"><img  src='https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif'/></p>
 <br/>
 <p align="left"> <img src="https://www.canva.com/design/DAFUj1A1YNc/watch" alt="Kashif Saleem" /> </p>
 <br/>
