@@ -4,10 +4,7 @@
 <h3 align="center">I am open to new opportunities.</h3>
 <h3 align="center"> Interests</h3>
 <p align="center">🤽‍♀️ Cricket and Soccer 🎨 Interior Design </p>
-<p align="center"><img  src='https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif'/></p>
-<br/>
-<p align="left"> <img src="https://www.canva.com/design/DAFUj1A1YNc/watch" alt="Kashif Saleem" /> </p>
-<br/>
+<iframe src="https://giphy.com/embed/m6pvmOSXuTEPaKFWBz" width="475" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CleverCodeLab-nft-computer-working-m6pvmOSXuTEPaKFWBz">via GIPHY</a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kashif-Saleem-GHuman" alt="Kashif Saleem" /></a> </p>
 <br/>
 - 🔭 I’m currently Working on [TO-DO-List Web Application](https://github.com/ReemMohamedAbdelfatah/TO-DO-LIST)
