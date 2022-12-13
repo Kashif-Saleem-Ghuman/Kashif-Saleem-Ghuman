@@ -12,7 +12,7 @@
 
 I'm Kashif Saleem. A Full Stack Developer. I am a student at Microverse, an online school where i code more than 8 hours a day with other developers from all around the globe. 
 
-- 🌱 I’m currently learning **Webpack, ES6, Javascript, Css, Html.**
+- 🌱 I’m currently learning **Webpack, ES6, Javascript, CSS, HTML.**
 
 <h3 align="left" style="font-weight:bold">Credentials:</h3>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59015476"/>
