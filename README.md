@@ -1,5 +1,6 @@
 
-# Hey there :wave:
+<h1 align="center">Hi 👋, I'm Kashif Saleem</h1>
+
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -13,6 +14,21 @@
 I'm Kashif Saleem. A Full Stack Developer. I am a student at Microverse, an online school where i code more than 8 hours a day with other developers from all around the globe. 
 
 - 🌱 I’m currently learning **Webpack, ES6, Javascript, CSS, HTML.**
+- ⚡ Fun fact **I am also an Interior Designer**
+
+
+<h3 align="center">Connect with me</h3>
+
+<div align="center" style="margin-top:10px">
+  <div>
+    <a  href="https://www.linkedin.com/in/kashif-saleem-45ba95215/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
+    </a>
+    <a href="https://twitter.com/Kashif14Saleem" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+  </div>
+  </div>
 
 <h3 align="left" style="font-weight:bold">Credentials:</h3>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59015476"/>
@@ -24,12 +40,19 @@ I'm Kashif Saleem. A Full Stack Developer. I am a student at Microverse, an onli
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 - Problem Solving Algorithms.
+<h2 align ="left">GitHub Stats</h2>
+<div>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Saleem-Ghuman&show_icons=true&theme=nightowl&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kashif-Saleem-Ghuman&show_icons=true&theme=nightowl&count_private=true"/>
+</div>
 
-## Get in touch :coffee:
+
+
+<!-- ## Get in touch :coffee:
 
 - Your future buddy to discuss web devlopment and tech in general on [Twitter](https://twitter.com/Kashif14Saleem).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
 - And of course GitHub you're already on (Recursion).
-
+ -->
 
 
