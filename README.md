@@ -21,7 +21,7 @@ I'm Kashif Saleem. A Full Stack Developer. I am a student at Microverse, an onli
 
 <div align="center" style="margin-top:10px">
   <div>
-    <a  href="https://www.linkedin.com/in/kashif-saleem-45ba95215/" target="_blank">
+    <a  href="https://www.linkedin.com/in/kashifsaleemghuman/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
     <a href="https://twitter.com/Kashif14Saleem" target="_blank">
