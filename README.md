@@ -41,8 +41,10 @@ I'm Kashif Saleem. A Full Stack Developer. I graduated from Microverse, an onlin
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65926210" alt="Credential 2" width="150"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898482" alt="Credential 3" width="150"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557231" alt="Credential 4" width="150"/>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809591" alt="Credential 5" width="150"/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809591" alt="Credential 5" width="150"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74008916" alt="Credential 6" width="150"/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75355995" alt="Credential 6" width="150"/>
+  
 </p>
 <br/>
 
