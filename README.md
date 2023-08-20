@@ -11,9 +11,9 @@
 
 # 💫 About Me:
 
-I'm Kashif Saleem. A Full Stack Developer. I graduated from Microverse, an online school where I coded more than 8 hours a day with other developers from all around the globe and learned the industry relevant languages, frameworks and skills. 
+I'm Kashif Saleem. A Full Stack Developer. I graduated from Microverse, an online school where I coded more than 8 hours a day with other developers from all around the globe and learned industry-relevant languages, frameworks and skills. 
 
-🔭 I’m currently working on ink! a programming language for smart contracts. You can use it with blockchains built on Substrate.<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning rust and smart contracts <br>⚡ Fun fact I am an interior designer
+🔭 I'm actively contributing to open-source projects, primarily utilizing React, Next.js, and Tailwind CSS. Additionally, I'm involved in the development of Uamuzi and Fleet Delivery Service, working on a social networking and a food delivery mobile application. This experience is enhancing my skills in React Native..<br>👯 I’m looking to collaborate on Meshery an open source, service mesh management plane for enabling the adoption, operation, and management of any service mesh and their workloads.<br>🌱 Therefore I am learning Docker, Kubernetes and services meshes <br>⚡ Fun fact I am an interior designer
 
 <h3 align="center">Connect with me</h3>
 
@@ -65,7 +65,7 @@ I'm Kashif Saleem. A Full Stack Developer. I graduated from Microverse, an onlin
 
 <!-- ## Get in touch :coffee:
 
-- Your future buddy to discuss web devlopment and tech in general on [Twitter](https://twitter.com/Kashif14Saleem).
+- Your future buddy to discuss web development and tech in general on [Twitter](https://twitter.com/Kashif14Saleem).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/kashif-saleem-45ba95215/)
 - And of course GitHub you're already on (Recursion).
  -->
