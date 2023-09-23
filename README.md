@@ -11,7 +11,9 @@
 
 # 💫 About Me:
 
-I am Kashif Saleem, a Full-stack Developer. I graduated from Microverse, an online school in San Francisco, where I dedicated more than 8 hours a day to coding alongside fellow developers from around the globe. During my time at Microverse, I acquired proficiency in industry-relevant languages, frameworks, and both technical and soft skills.
+Hello, my name is Kashif Saleem. I am a graduate of Microverse, an online school based in San Francisco that provides a simulated real-world remote software development environment. here I spent months completely immersed in remote development, building everything from landing pages to Rails APIs using JavaScript, React, Redux, Ruby, and Rails. Collaborating with developers from around the world, I learned valuable skills such as effective communication, time management, and teamwork.
+
+Before transitioning into software development, I worked as a managing partner and lead interior designer at KSA Design Studio. I acquired several transferable skills that are now integral to my work as a developer, including providing effective solutions to clients' problems, effective communication, and multitasking. The company's focus on prioritizing customer needs taught me the importance of a client/user-centric approach, a mindset I bring to software engineering.
 
 🚀 Currently, I am fully immersed in my role as a Front-end developer at Programmers Force Pvt Ltd, a prominent tech powerhouse in Pakistan. My primary focus revolves around harnessing the capabilities of Vue.js, Vuetify, and Bootstrap to drive innovation and excellence in web development. At Programmers Force, I am passionately committed to pushing the boundaries of what is achievable in the world of web technology.
 
@@ -62,8 +64,11 @@ I am Kashif Saleem, a Full-stack Developer. I graduated from Microverse, an onli
 
 ## Things I am passionate about
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-- Problem Solving Algorithms.
+- Building dynamic web applications with React
+- Crafting elegant user interfaces with Vue.js
+- Exploring server-side rendering with Next.js
+- Developing robust business logic to drive innovation.
+- 
 <h2 align ="left">GitHub Stats</h2>
 <div>
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Saleem-Ghuman&show_icons=true&theme=nightowl&layout=compact"/>
